@@ -1,0 +1,58 @@
+.linea{
+	width: 90px;
+	height: 3px;
+	background-color:black;
+
+}
+.contenedor{
+	margin: 20px;
+}
+
+.foto{
+	width: 200px;
+	height: 200px;
+	border-color: 2px solid grey;
+	margin: 10px;
+	float: left;
+	position: relative;
+}	
+
+.uno{
+
+	background-image:url(../img/profile-1.png);	
+
+}
+
+.dos{
+
+	background-image: url(../img/profile-2.png);
+}
+
+.tres{
+
+	background-image: url(../img/profile-3.png);
+
+}
+
+.cuatro{
+
+	background-image: url(../img/profile-4.png);
+	clear: both;
+}
+
+.cinco{
+
+	background-image: url(../img/profile-5.png);
+}
+
+.seis{
+
+	background-image: url(../img/profile-6.png);
+}
+
+span{
+color: white;
+position: absolute;
+bottom: 0;
+right: 0;
+}
